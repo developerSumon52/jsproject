@@ -1,2 +1,0 @@
-# jsproject
-javascript projects
