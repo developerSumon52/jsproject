@@ -1,0 +1,26 @@
+.containers{
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+#red{
+    height: 80px;
+    width: 80px;
+    background: #eb0c0c;
+}
+#green{
+    height: 80px;
+    width: 80px;
+    background: #0ceb1f;
+}
+#yellow{
+    height: 80px;
+    width: 80px;
+    background: #bbeb0c;
+}
+#black{
+    height: 80px;
+    width: 80px;
+    background: #1a1d11;
+}
